@@ -11,3 +11,6 @@
 *.iml
 *.pyc
 *.*~
+
+# vscode settings
+/.vscode
